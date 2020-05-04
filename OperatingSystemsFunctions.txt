@@ -1,0 +1,3 @@
+Microsoft Windows is a proprietary operating system that was introduced by Microsoft in 1985.
+Windows dominated the Personal Computer market, overtaking Apple's macOS which had been released a year prior.
+To this day, Windows remains the most widely used operating system on PCs, but they pale in comparison to competition when it comes to mobile Operating Systems.
