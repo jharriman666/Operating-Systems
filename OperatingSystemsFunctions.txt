@@ -5,3 +5,7 @@ To this day, Windows remains the most widely used operating system on PCs, but t
 macOS is a series of operating systems for Apple/Macintosh personal computers that was developed by Apple Inc. in 1984.
 macOS is based on the Unix operating system, has acheived UNIX 03 Certification, and shares its Unix-based core with iOS, iPadOS, tvOS, and watchOS.
 macOS is the second-most widely used desktop OS after Microsoft Windows.
+
+Linux is a family of open-source Unix-like operating systems. These are based on the Linux kernal, an operating system kernel released by Linus Torvalds in 1991.
+Linux is freely redistributable, anyone can create distribution for any purpose.
+Linux is the leading operating system for servers and other large systems like mainframe computers, and is the only OS used for supercomputers. However, it is only used by 2.3% of desktop computers.
