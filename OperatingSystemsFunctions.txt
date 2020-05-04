@@ -1,3 +1,7 @@
 Microsoft Windows is a proprietary operating system that was introduced by Microsoft in 1985.
 Windows dominated the Personal Computer market, overtaking Apple's macOS which had been released a year prior.
 To this day, Windows remains the most widely used operating system on PCs, but they pale in comparison to competition when it comes to mobile Operating Systems.
+
+macOS is a series of operating systems for Apple/Macintosh personal computers that was developed by Apple Inc. in 1984.
+macOS is based on the Unix operating system, has acheived UNIX 03 Certification, and shares its Unix-based core with iOS, iPadOS, tvOS, and watchOS.
+macOS is the second-most widely used desktop OS after Microsoft Windows.
